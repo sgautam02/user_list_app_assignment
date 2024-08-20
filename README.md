@@ -18,7 +18,7 @@ Before running the app, ensure you have the following installed:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/user-list-flutter-app.git
+   git clone https://github.com/your-username/user_list_app_assignment.git
    cd user-list-flutter-app
    ```
 
