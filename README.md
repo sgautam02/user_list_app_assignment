@@ -48,10 +48,13 @@ Before running the app, ensure you have the following installed:
 
 ### Home Screen - User List
 
-![User List](screenshots/user_list.png)
+![User List](screenshots/all_user_list.jpeg)
+### Home Screen - User List
+
+![User List](screenshots/page_refresh.jpeg)
 
 ### User Profile Screen
 
-![User Profile](screenshots/user_profile.png)
+![User Profile](screenshots/user_profile.jpeg)
 
 ---
